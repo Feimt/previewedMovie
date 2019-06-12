@@ -1,2 +1,2 @@
 # previewedMovie
-基于uni-app的电影预告片项目
+基于uni-app的电影预告片跨平台项目
